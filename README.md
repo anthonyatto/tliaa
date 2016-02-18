@@ -9,5 +9,5 @@ but - we did earn an 'honorable mention' for our innovative idea, a _conditional
 
 with one of the simplest statistical learning algorithms, we were able to provide a significantly lower root mean squared error (rmse) for males than most other groups (this didn't help in the competetion, given that majority of users were female).
 
-the code provided is not quickly executable (generating a cosine matrix for 10,000 users is over a gig, even as .rdata) but gives you a sense of our logic in developing an algorithm.
+the code provided for our final submission (MakeEmSayUghhh.R) is not easily executable (generating a cosine matrix for 10,000 users is over a gig, even as .rdata) but gives you a sense of our logic in developing an algorithm.
 
